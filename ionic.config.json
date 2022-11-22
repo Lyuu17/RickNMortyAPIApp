@@ -1,5 +1,5 @@
 {
-  "name": "myApp",
+  "name": "Rick and Morty API",
   "integrations": {
     "capacitor": {}
   },

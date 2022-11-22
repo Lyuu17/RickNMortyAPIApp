@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'myApp',
+  appId: 'lucx.ricknmorty.apitest',
+  appName: 'Rick and Morty API',
   webDir: 'dist',
   bundledWebRuntime: false
 };
